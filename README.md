@@ -48,7 +48,7 @@ In order to allow anyone to create tickets we will  go into the Admin panel > Se
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Following that step we will create Agents. Go into the Admin Panel > Agents > then click Add New. For sample purposes we will Create Jane. We will then give her a Supreme Admin role and her Department would be SysAdmin. By doing this, she has access that a normal employee won't have.
 </p>
 <br />
 
