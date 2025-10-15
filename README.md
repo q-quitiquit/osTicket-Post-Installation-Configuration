@@ -45,6 +45,9 @@ In this step we will configure teams. In the Admin Panel go to agents then teams
 <br />
 
 <img width="958" height="713" alt="Screenshot 2025-10-07 at 3 58 54 PM" src="https://github.com/user-attachments/assets/abebb8e0-1b9f-43b4-a804-0a8cb075fd01" />
+</p>
+<br />
+
 In order to allow anyone to create tickets we will  go into the Admin panel > Settings > User Settings > and then "UNCHECK" the Require registration and login to create tickets box. 
 </p>
 <br />
