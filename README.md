@@ -10,11 +10,12 @@ This tutorial outlines the Post installation and Configuration of the open-sourc
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (Windows App)
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b>
+- Windows 11
+- MacOS
+  
 
 <h2>List of Prerequisites</h2>
 
