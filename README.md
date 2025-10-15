@@ -64,7 +64,7 @@ Following that step we will create Agents. Go into the Admin Panel > Agents > th
 </p>
 <br />
 
-Next we will create Users (customers). In order to do so you must be in the agent panel, go to users and click add new. For sample purposes we will create Ken
+Next we will create Users (customers). In order to do so you must be in the agent panel, go to users and click add new. For sample purposes we will create Ken.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Next we will create Users (customers). In order to do so you must be in the agen
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+SLA stands for Service Leve Agreement, it's a contract between a service provider and a client that defines the level of service expected, including metrics like uptime and response times. to configure SLA we will go into the Admin Panel, then Manage and click on SLA.
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+The picture below shows the different SLA's we created. Each SLA has a severity, how long it takes to complete the ticket and the schedule of ticket will be shown on the agents dashboard.
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Lastly, We will configure a help topic. This is for when users create a ticket. Go into the Admin panel, click Manage, then go into help Topics. For example, Business Critical Outage, Personal Computer Issues, Equipment, and Passwords Resets.
 </p>
 <br />
 
