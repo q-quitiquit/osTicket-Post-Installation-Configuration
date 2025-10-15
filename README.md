@@ -64,7 +64,7 @@ Following that step we will create Agents. Go into the Admin Panel > Agents > th
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Next we will create Users (customers). In order to do so you must be in the agent panel, go to users and click add new. For sample purposes we will create Ken
 </p>
 <br />
 
