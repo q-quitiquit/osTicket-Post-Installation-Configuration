@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-In this lab we will make some configurations in order to use osTicket. We will provid Agents, roles, departments and teams. First we will configure roles, we will go to the admin panel > Agents > then roles. From there we will name it SysAdmins
+In this lab we will make some configurations in order to use osTicket. We will provid Agents, roles, departments and teams. First we will configure roles, we will go to the admin panel > Agents > then roles. From there we will name it Supreme Admin
 </p>
 <br />
 
