@@ -40,7 +40,7 @@ Next we will Configure Departments. Creating this will allow ticket visibility. 
 </p>
 <br />
 
-In order to allow anyone to create tickets we will  go into the Admin panel > Settings > User Settings > and then "UNCHECK" the unregistered users can create tickets box. 
+In order to allow anyone to create tickets we will  go into the Admin panel > Settings > User Settings > and then "UNCHECK" the Require registration and login to create tickets box. 
 </p>
 <br />
 
